@@ -1,0 +1,14 @@
+name: Sourdough Pitas
+author: Quentin Geissmann
+date: 2021-04-10
+---------------------
+Flour[1222g] #00
+Stock_Sourdough[222g]
+Water[828g] #Salted 
+Salt[16g]
+Stock_Sourdough, Flour[222g], Water[178g] | Mix | Activate[8h, Room temp.] > Active_Sourdough, Stock_Sourdough # Take and use 400 g, keep the rest
+Stock_Sourdough[222g] | Keep # Shoud have 222g left for next time (adjust with flower + water if not)  
+Water[650g], Active_Sourdough[400g]| Mix[large bowl] > Liquids
+Liquids, Flour[1kg], Salt| Mix[Flour then salt]| Knead [10min] | Proof[2h] |Fold | Proof [6h]> Dough
+Dough | Cut[200g] | Make_balls | Rest[30min]| Roll[20cm disks, use flour] | Cook[Hot dry pan, 2min each side]
+

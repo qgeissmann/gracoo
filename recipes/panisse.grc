@@ -1,0 +1,20 @@
+name: Panisse
+author: Quentin Geissmann
+date: 2021-04-06
+---------------------
+Chickpea_flour[250 g]
+Vegetable_stock[1l]
+Olive_oil[40ml]
+Coriander[10g]
+Cumin[10g]
+Polenta[50g]
+
+Coriander | Ground[Coarsely]
+Cumin | Ground[Coarsely]
+Olive_oil[20ml], Vegetable_stock, Coriander[5g], Cumin[5g] | Mix | Heat[Until boil]| Simmer > Vegetable_stock
+Chickpea_flour, Vegetable_stock | Mix [Add flour to stock, Keep stirring] | Simmer[keep stirring, 5min] > Batter
+Polenta, Coriander[5g], Cumin[5g] | Mix > Coating
+Batter | Cast[Cylindrical mold, diam 10cm] | Cool [4C, 30min] # Oiling the mold will help to unmold
+Batter | Unmold |Slice [1cm thick] > Slices
+Slices, Coating | Coat[Cover slices] > Slices
+Slices, Olive_oil[20ml] | Pan_fry[High heat] > Panisses
